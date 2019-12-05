@@ -1,6 +1,5 @@
-
 {
-  "name": "cjd-rn-printer-plugin-test",
+  "name": "cjd-rn-printer-plugin",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -14,5 +13,8 @@
   "license": "",
   "peerDependencies": {
     "react-native": "^0.41.2"
+  },
+  "dependencies": {
+    "react-native": "^0.61.5"
   }
 }
